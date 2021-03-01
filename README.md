@@ -1,5 +1,5 @@
 # RTS
-Real Time Strategy Multiplayer (2 - 4 Players) Made in Unity.
+Real Time Strategy Multiplayer (2 - 4 Players) Made in Unity. This demo showcases multiplayer features, building structures and an army, and destroying other players' bases. 
 
 Download the zip folder.
 Extract the zip folder.
@@ -13,4 +13,4 @@ Double click RTS.exe
       - Other instances join using "join lobby"
            - Type host's port and press "join lobby"
       
-This demo showcases multiplayer features, building structures and an army, and destroying other players' bases. 
+
